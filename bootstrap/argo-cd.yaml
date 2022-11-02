@@ -19,7 +19,7 @@ spec:
   project: default
   source:
     path: bootstrap/argo-cd
-    repoURL: http://aegir.kubernetes:3000/runejuhl/gitops.git
+    repoURL: https://github.com/runejuhl/demo-gitops.git
   syncPolicy:
     automated:
       allowEmpty: true
