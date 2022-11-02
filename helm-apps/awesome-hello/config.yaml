@@ -1,0 +1,6 @@
+---
+appName: awesome-hello
+destNamespace: awesome-hello
+destServer: 'https://kubernetes.default.svc'
+chart: awesome-hello
+environment: production

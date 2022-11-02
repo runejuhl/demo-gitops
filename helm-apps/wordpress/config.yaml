@@ -1,0 +1,6 @@
+---
+appName: wordpress
+destNamespace: wordpress
+destServer: 'https://kubernetes.default.svc'
+chart: wordpress
+environment: production
